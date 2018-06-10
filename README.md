@@ -8,7 +8,7 @@
 
 ## PREVIEW NORMAL AND ZOOMED
 
-![PREVIEW](https://github.com/mgeekin/VDES2018-banner-PSD/blob/master/preview.png)
+![PREVIEW](https://raw.githubusercontent.com/mgeekin/VDES2018-banner-PSD/master/preview.png)
 
 
-![ZOOMED PREVIEW](https://github.com/mgeekin/VDES2018-banner-PSD/blob/master/preview-zoom.png)
+![ZOOMED PREVIEW](https://raw.githubusercontent.com/mgeekin/VDES2018-banner-PSD/master/preview-zoom.png)
